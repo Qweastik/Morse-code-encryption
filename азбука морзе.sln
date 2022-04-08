@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "азбука морзе", "азбука морзе.csproj", "{A315C029-8587-4B10-A734-44FF3920C3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A315C029-8587-4B10-A734-44FF3920C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A315C029-8587-4B10-A734-44FF3920C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A315C029-8587-4B10-A734-44FF3920C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A315C029-8587-4B10-A734-44FF3920C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A56906EA-0470-49C7-B125-35D801F1A2B9}
+	EndGlobalSection
+EndGlobal
